@@ -1,0 +1,19 @@
+p {
+    color: red; 
+    background: blue;
+    font-size: 3.0rem;
+}
+
+
+h1 {
+    background: green;
+}
+
+.special {
+    background: black;
+    border: 3px solid purple;
+}
+
+.main {
+    border: 20px dashed gold;
+}
