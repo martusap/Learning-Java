@@ -19,11 +19,11 @@ function ready() {
 document.addEvent addEventListener("DOMContentLoaded", ready);
 
 
-cs.innerHTML = "Changed";
+// cs.innerHTML = "Changed";
 
-cs.innerHTML = "<p>Now a paragraph</p>";
+// cs.innerHTML = "<p>Now a paragraph</p>";
 
-cs.append("Now");
+// cs.append("Now");
 
 // setTimeout(() => {
 //     cs.append("Latter");
